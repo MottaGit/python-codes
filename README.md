@@ -1,4 +1,5 @@
 # python-codes
+teste
 
 **(Sempre que quiser atualizar a partir do servidor):** Abrir com o Git Bash onde a pasta está instalada no computador
 ```
