@@ -1,0 +1,5 @@
+msg = input('digite algo: ')
+print('tipo do dado: {}'.format(type(msg)))
+print('é numérico? {}'.format(msg.isnumeric()))
+print('é maisculo? {}'.format(msg.isupper()))
+print('é alfanumerico? {}'.format(msg.isalnum()))
