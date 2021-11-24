@@ -1,5 +1,6 @@
 # python-codes
-teste
+
+Meu repositório pessoal para os meus códigos feitos em python.
 
 **(Sempre que quiser atualizar a partir do servidor):** Abrir com o Git Bash onde a pasta está instalada no computador
 ```
@@ -11,7 +12,7 @@ git pull
 git status
 git add .
 git commit -m "<message>"
-git push origin master
+git push
 ```
 
 MottaGit/python-codes

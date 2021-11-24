@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83e82acf-f33c-41cf-addc-bf34f1f8f701" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVideo-Mundo2/ex071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21KzkFUgtdlriAZieWiQfb2PdhT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CursoemVideo-Mundo2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="gerar_qrcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gerar_qrcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gerar_qrcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83e82acf-f33c-41cf-addc-bf34f1f8f701" name="Changes" comment="" />
+      <created>1637704708775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637704708775</updated>
+    </task>
+    <servers />
+  </component>
+</project>
