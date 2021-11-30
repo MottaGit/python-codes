@@ -1,6 +1,6 @@
 # python-codes
 
-Meu repositório pessoal para os meus códigos feitos em python.
+Meu repositório pessoal com meus códigos feitos em python.
 
 **(Sempre que quiser atualizar a partir do servidor):** Abrir com o Git Bash onde a pasta está instalada no computador
 ```
